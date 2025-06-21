@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "url": "/home"
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "url": "/about"
+  },
+  {
+    "id": 3,
+    "title": "Service",
+    "url": "/services",
+    "submenu": [
+      {
+        "id": 31,
+        "title": "Oracle Support",
+        "url": "/services/oracle-support"
+      },
+      {
+        "id": 32,
+        "title": "Web Development",
+        "url": "/services/web-development"
+      },
+      {
+        "id": 33,
+        "title": "SAP",
+        "url": "/services/sap"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Blog",
+    "url": "/blog"
+  },
+  {
+    "id": 5,
+    "title": "Contact",
+    "url": "/contact"
+  }
+]
